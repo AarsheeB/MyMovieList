@@ -2,12 +2,8 @@
 
 ## Project for SE 2022 <br />
 
-**Project Members-** <br />
+* **Name - Aarshee Bhattacharya** 
 
-* **Akshith Sagar Ambati** - Frontend <br />
-* **Dhanush Pakanti** - Frontend <br />
-* **Aarshee Bhattacharya** - Backend <br />
-* **Ipshita Aggarwal** - Backend <br />
 
 ### Tech stack <br />
 Platform | Technology
